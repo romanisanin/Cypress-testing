@@ -1,0 +1,19 @@
+Test 1: Searching a product and filtering the results
+1. opens iherb.com
+2. enters  in the search field: 'Omega 3'
+3. Select omega 3 in Supplements
+4. Changes price range in Filter
+
+Test 2
+1. Chooses Now Foods, Ultra Omega-3, 500 EPA/250 DHA, 90 Softgels
+2. Checks the name of the product
+3. Changes a quantity to 2
+4. Changes a package with the best value
+5. Presses go to checkout
+
+Test 3: 
+1. Check Product title and quantity
+2. Presses Go to Checkout
+3. Enters credentials
+4. Presses Sign In
+....
